@@ -68,6 +68,18 @@
           "Finance"
         ],
         "id": 5
+      },
+      {
+        "id": 6,
+        "name": "TANVI",
+        "profilePicture": "../../assets/profile-images/Ellipse -5.png",
+        "gender": "male",
+        "departments": [
+          "Finance"
+        ],
+        "salary": "48100",
+        "startDate": "2021-06-30T18:30:00.000Z",
+        "note": "A"
       }
     ]
   }
