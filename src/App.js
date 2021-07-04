@@ -1,5 +1,5 @@
 import './App.css';
-import PayrollForm from './components/payroll-form/payroll-form';
+import PayrollForm from './components/payroll-form';
 import {
   BrowserRouter as Router,
   Switch,
